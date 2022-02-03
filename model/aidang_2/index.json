@@ -6,7 +6,7 @@
     "textures":[
         "textures/texture_00.png"
     ],
-    "Physics": "aidang_2.physics3.json",
+    "physics": "aidang_2.physics3.json",
     "layout":{
         "center_x": 0,
         "center_y": 0.1,
